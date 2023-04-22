@@ -1,1 +1,1 @@
-algoritms intermediate
+Algoritms Intermediate
